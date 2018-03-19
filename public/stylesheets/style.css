@@ -1,0 +1,47 @@
+body {
+  padding: 50px;
+
+
+}
+.lookingFor
+{
+      margin-top: 50px;
+      padding-left: 0px;
+}
+.lookingFor p
+{
+      font-family: 'Merienda', cursive;
+}
+
+.lookingFor h3
+{
+      font-family: 'Merienda', cursive;
+      text-shadow: 4px 4px 4px #aaa;
+      font-size: 2.5em;
+      margin-bottom: 50px;
+      font-weight: bold;
+}
+.lookingFor small
+{
+      font-size: 0.8em;
+}
+
+.information
+{
+      margin-top: 100px;
+
+}
+.information h3
+{
+      font-family: 'Merienda', cursive;
+      text-shadow: 4px 4px 4px #aaa;
+      font-size: 1.5em;
+      color: #372549;
+      font-weight: bold;
+}
+.information p
+{
+      font-family: 'Merienda', cursive;
+      color: #774C60;
+      
+}
